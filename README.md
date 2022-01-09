@@ -1,5 +1,5 @@
-# jogoTabuleiroConsole
-Joguinho de tabuleiro no console em JS. 
+# joguinho do Tabuleiro no Console em Javascript
+
 
 
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiTqvhXqt60TDCSeqDz-ozQW1HXU9ITawnkFepmunRmCG_4-jLp4QgzvqOir3ZtwZe8Zj-oLn2sDbSz1Z5Xz1ZLSGTn1XHEkEcGiuJWAztejTUS-Hk74R2_8Ws9aU8WU7piR0egwalctGhmfo6ZTywxCoAMX3I6RE_f4SeUcZWL67fspK7OBBj5-q_D=s1047" alt="jogoConsoleJS">
