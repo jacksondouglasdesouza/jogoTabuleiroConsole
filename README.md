@@ -1,0 +1,6 @@
+# jogoTabuleiroConsole
+Joguinho de tabuleiro no console em JS. 
+
+
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiTqvhXqt60TDCSeqDz-ozQW1HXU9ITawnkFepmunRmCG_4-jLp4QgzvqOir3ZtwZe8Zj-oLn2sDbSz1Z5Xz1ZLSGTn1XHEkEcGiuJWAztejTUS-Hk74R2_8Ws9aU8WU7piR0egwalctGhmfo6ZTywxCoAMX3I6RE_f4SeUcZWL67fspK7OBBj5-q_D=s1047" alt="jogoConsoleJS">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiDDXFxZq1IqA26Zok4EhqU8YC2jm_-4gDebpIpe1zsiggHxCeYjbUS_6mWpJhfBanNBIFpYHaRoewmUtMViz250QIAUiqtoVhU3_4SLA_yaDq2hBa9iCbBzTrVa6hJqBcurz0fK5nVk4hOEw6q6ZchLhQzn9FM4UgDBeJbZx_kDwwAI5PWygVdA95p=s579" alt="jogoConsoleJS">
